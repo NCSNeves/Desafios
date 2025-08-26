@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#top-bar{
+    color: white;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    padding: 10px;
+    background-color:#414141;
+}
+
+#orange-bar{
+    background-color: #fd8a24;
+    height: 10px;
+}
+
+.titulo{
+    font-size: 36px;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+}
