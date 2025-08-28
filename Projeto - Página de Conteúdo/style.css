@@ -16,10 +16,24 @@ body{
     height: 10px;
 }
 
-.titulo{
+#titulo{
     font-size: 36px;
     font-family: "Roboto", sans-serif;
     text-align: center;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+#titulo p{
+    color: #414141;
+    text-align: left;
+}
+
+#titulo img{
+    text-align: left;
+}
+
+.autora{
+    font-weight: bold;
+    font-size: 25px;
 }
